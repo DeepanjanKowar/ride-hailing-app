@@ -1,0 +1,13 @@
+# Ignore Gradle build artifacts
+.gradle/
+build/
+# Ignore build directories in any submodules
+*/build/
+# IntelliJ project files
+.idea/
+*.iml
+out/
+# OS generated files
+.DS_Store
+# Log files
+*.log
