@@ -1,4 +1,4 @@
-package com.dispatch.app
+package com.yourapp.dispatch
 
 import io.ktor.server.engine.embeddedServer
 import io.ktor.server.netty.Netty

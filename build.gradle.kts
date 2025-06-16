@@ -5,7 +5,7 @@ plugins {
 }
 
 application {
-    mainClass.set("com.dispatch.app.ApplicationKt")
+    mainClass.set("com.yourapp.dispatch.ApplicationKt")
 }
 
 repositories {

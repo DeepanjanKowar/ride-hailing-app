@@ -1,4 +1,4 @@
-package com.dispatch.app
+package com.yourapp.dispatch
 
 import io.ktor.server.testing.testApplication
 import kotlin.test.Test
